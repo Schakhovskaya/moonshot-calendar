@@ -1,6 +1,14 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is WIP and was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## About the Moonshot Launcher
+I used in this project some specific libraries, for example, for map ised react-simple-maps because with it you can see all globe. Also this library has a great documentation. 
+Also I was thinking about using Redux, but after starting the project I understood that in this version of app I don't need it. 
+I spent a lot of time thinking about API provided by Launch Library. I couldn't find the perfect match for my task (choose data with correct date), so I'd love to use the .filter for this task. 
+Also I was thinking about the Material UI for interface, but then I remembered about Bootstrap and decided go with it. 
+If I had more time, I'd add some filters on the screen with options like Company, Date start, Date end, Succesfull etc. Also I'm thinking about popups with all information about this launch. I hope next time I'll provide all of it :)
+Thank you for your time!
 
 ## Available Scripts
 

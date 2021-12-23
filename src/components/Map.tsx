@@ -28,7 +28,6 @@ const Map = () => {
             try {
                 const response = await axios.get(`${config.launchApi}/upcoming/`);
 
-                console.log(response.data.results);
                 markers = response.data.results.map((l: launchParams) => {
                     return {
                         markerOffset: 15,
